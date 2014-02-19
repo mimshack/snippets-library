@@ -1,4 +1,3 @@
-snippets-library
-================
+# Snippets Library
 
-Browser extension snippets library
+Documenting common patterns used in browser extensions.
