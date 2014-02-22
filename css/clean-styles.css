@@ -1,0 +1,9 @@
+/*
+A class tthat eliminates any other styles that might affect an element
+useful for injecting elements into a page with existing styles.
+Spec: https://developer.mozilla.org/en-US/docs/Web/CSS/all
+*/
+
+.clean {
+    all: initial;
+}
